@@ -24,12 +24,6 @@ A Python Package for the Google Chrome Dev Protocol, [more document](https://fat
 To install pychrome, simply:
 
 ```
-$ pip install -U pychrome
-```
-
-or from GitHub:
-
-```
 $ pip install -U git+https://github.com/serkankazak/pychrome.git
 ```
 
